@@ -5,7 +5,7 @@ https://www.linkedin.com/in/silvina-ronzoni-1054b2207/
 
 ✍  Actualmente estoy haciendo proyectos de entrenamiento en Javascript, React JS y Node JS , esperando mi primer trabajo en IT.
 
-📓  Además continúo capacitándome haciendo cursos de Javascript Avanzado y Data Analytics entre otros.
+
 
 
 ![image](https://user-images.githubusercontent.com/77582867/141662514-db0d47ee-6135-44e3-ac75-c5d738fcc037.png)
