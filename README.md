@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/77582867/141661001-a50d83cd-0e20-497c-b96e-884c1debf202.png)  
 https://www.linkedin.com/in/silvina-ronzoni-1054b2207/
 
-✍  Actualmente estoy haciendo proyectos de entrenamiento en Javascript, React JS y Node JS , esperando mi primer trabajo en IT.
+✍  Actualmente esperando mi primer trabajo en IT.
 
 
 
