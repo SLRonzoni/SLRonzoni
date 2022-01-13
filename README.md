@@ -3,8 +3,10 @@
 ![image](https://user-images.githubusercontent.com/77582867/141661001-a50d83cd-0e20-497c-b96e-884c1debf202.png)  
 https://www.linkedin.com/in/silvina-ronzoni-1054b2207/
 
-✍  Actualmente esperando mi primer trabajo en IT.
-
+✍ Siempre trabajé en RR.HH, y al inicio de la pandemia comencé a estudiar desarrollo web. 
+Me gusta programar y ya hice varios proyectos en Node JS y React JS.
+Acepto los desafíos y no me rindo con facilidad.
+Me gustaría tener la oportunidad de ser parte de un equipo de desarrollo y potenciar mis habilidades.
 
 
 
