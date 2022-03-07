@@ -3,10 +3,10 @@
 ![image](https://user-images.githubusercontent.com/77582867/141661001-a50d83cd-0e20-497c-b96e-884c1debf202.png)  
 https://www.linkedin.com/in/silvina-ronzoni-1054b2207/
 
-✍ Quisiera tener la oportunidad de ser parte de un equipo de desarrollo, aprender, aportar ideas y potenciar mis habilidades.
-Aprendí a programar hace muchos años pero siempre trabajé en RR.HH. Al inicio de la pandemia comencé a estudiar desarrollo web Full Stack.
+✍ Me recibí de Analista Programadora hace tiempo. El año pasado estudié Desarrollo Web porque me interesa trabajar en la industria IT.
 Me gusta programar y ya hice varios proyectos con Node JS y React JS.
-Soy una persona comprometida y responsable. Acepto los desafíos y no me rindo con facilidad.
+Soy una persona trabajadora, honesta, organizada y responsable, acepto los desafíos y no me rindo con facilidad.
+Quisiera tener la oportunidad de ser parte de un equipo de desarrollo, donde pueda aportar ideas, aprender y potenciar mis habilidades.
 
  
 
