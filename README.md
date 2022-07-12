@@ -3,10 +3,12 @@
 ![image](https://user-images.githubusercontent.com/77582867/141661001-a50d83cd-0e20-497c-b96e-884c1debf202.png)  
 https://www.linkedin.com/in/silvina-ronzoni-1054b2207/
 
-✍ Me recibí de Analista Programadora hace tiempo. Estudié Desarrollo Web porque me interesa trabajar en la industria IT.
-Me gusta programar y ya hice varios proyectos con Node JS y React JS.
-Soy una persona trabajadora, honesta, organizada y responsable, acepto los desafíos y no me rindo con facilidad.
-Quisiera tener la oportunidad de ser parte de un equipo de desarrollo, donde pueda aportar ideas, aprender y potenciar mis habilidades.
+👋🏻 Hola, soy Silvina
+Me recibí de Analista Programadora hace tiempo, y aunque siempre me desempeñé en el área de Recursos Humanos, me gusta mucho programar.  
+En los últimos dos años estudié Desarrollo Web porque era mi asignatura pendiente y porque me interesa trabajar en la industria IT.   
+Además tengo conocimientos de Seguros,  Liquidación de sueldos, RR.HH. y Contabilidad.
+Soy una persona trabajadora,  organizada , responsable , tengo capacidad de resolución de problemas,  perseverante y trabajo bien en equipo.
+Quisiera tener la oportunidad de ser parte de un equipo de desarrollo, donde pueda aprender,  aportar ideas  y potenciar mis habilidades.
 
  
 
