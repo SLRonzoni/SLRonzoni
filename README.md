@@ -5,7 +5,7 @@ https://www.linkedin.com/in/silvina-ronzoni-1054b2207/
 
 👋🏻 Hola, soy Silvina
 Me recibí de Analista Programadora hace tiempo, y aunque siempre me desempeñé en el área de Recursos Humanos, me gusta mucho programar.  
-En los últimos dos años estudié Desarrollo Web porque era mi asignatura pendiente y porque me interesa trabajar en la industria IT.   
+En los últimos dos años estudié Desarrollo Web, Node JS y React JS porque era mi asignatura pendiente y porque me interesa trabajar en la industria IT.   
 Además tengo conocimientos de Seguros,  Liquidación de sueldos, RR.HH. y Contabilidad.
 Soy una persona trabajadora,  organizada , responsable , tengo capacidad de resolución de problemas,  perseverante y trabajo bien en equipo.
 Quisiera tener la oportunidad de ser parte de un equipo de desarrollo, donde pueda aprender,  aportar ideas  y potenciar mis habilidades.
