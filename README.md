@@ -4,11 +4,10 @@
 https://www.linkedin.com/in/silvina-ronzoni-1054b2207/
 
 👋🏻 Hola, soy Silvina
-Me recibí de Analista Programadora hace tiempo, y aunque siempre me desempeñé en el área de Recursos Humanos, mi asignatura pendiente era programar.  
-En los últimos dos años estudié Desarrollo Web, Javascript, Node JS y React JS y me encanta codear y hacer aplicaciones.
-Además tengo conocimientos de Seguros,  Liquidación de sueldos, RR.HH. y Contabilidad.
-Soy una persona trabajadora,  organizada , responsable , tengo capacidad de resolución de problemas,  perseverancia y trabajo bien en equipo.
-Quisiera tener la oportunidad de ser parte de un equipo de desarrollo, donde pueda aprender y aportar ideas con una visión diferente.
+Me recibí de Analista Programadora hace tiempo. A partir de 2020 cursé varias actualizaciones de lenguajes de desarrollo y metodologías ágiles,  porque siempre me gustó programar y me interesa formar parte de un equipo de desarrollo en la Industria IT.
+Realicé la aceleración de Node JS en Alkemy y trabajé en varios proyectos personales con Node JS y React JS.
+Actualmente estoy estudiando Testing QA y Cobol.
+Soy una persona trabajadora, proactiva, organizada y responsable.
 
  
 
