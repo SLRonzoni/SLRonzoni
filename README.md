@@ -4,9 +4,10 @@
 https://www.linkedin.com/in/silvina-ronzoni-1054b2207/
 
 👋🏻 Hola, soy Silvina
-Me recibí de Analista Programadora hace tiempo. A partir de 2020 cursé varias actualizaciones de lenguajes de desarrollo y metodologías ágiles,  porque siempre me gustó programar y me interesa formar parte de un equipo de desarrollo en la Industria IT.
+Me recibí de Analista Programadora hace tiempo. A partir de 2020 cursé varias actualizaciones de lenguajes de desarrollo y metodologías ágiles,  porque siempre me gustó programar y me interesa formar parte de un equipo en la Industria IT, ya sea en el área de Desarrollo o en el área Testing.
 Realicé la aceleración de Node JS en Alkemy y trabajé en varios proyectos personales con Node JS y React JS.
-Actualmente estoy estudiando Testing QA y Cobol.
+Actualmente estoy realizando cursos de Testing QA y Cobol orientado a Mainframe.
+Además tengo conocimientos Contables, de RR.HH., Liquidación de sueldos y Seguros.
 Soy una persona trabajadora, proactiva, organizada y responsable.
 
  
