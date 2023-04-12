@@ -1,4 +1,3 @@
-### Hola soy Silvina 👋 !
 
 ![image](https://user-images.githubusercontent.com/77582867/141661001-a50d83cd-0e20-497c-b96e-884c1debf202.png)  
 https://www.linkedin.com/in/silvina-ronzoni-1054b2207/
