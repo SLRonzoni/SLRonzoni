@@ -1,8 +1,5 @@
 
-![image](https://user-images.githubusercontent.com/77582867/141661001-a50d83cd-0e20-497c-b96e-884c1debf202.png)  
-https://www.linkedin.com/in/silvina-ronzoni-1054b2207/
-
-👋🏻 Hola, soy Silvina
+👋🏻 Hola, soy Silvina...
 Me recibí de Analista Programadora hace tiempo. A partir de 2020 cursé varias actualizaciones de lenguajes de desarrollo y metodologías ágiles,  porque siempre me gustó programar y me interesa formar parte de un equipo en la Industria IT, ya sea en el área de Desarrollo o en el área Testing.
 Realicé la aceleración de Node JS en Alkemy y trabajé en varios proyectos personales con Node JS y React JS.
 Actualmente estoy realizando cursos de Testing QA y Cobol orientado a Mainframe.
