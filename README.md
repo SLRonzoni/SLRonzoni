@@ -32,8 +32,8 @@ Tengo conocimientos sobre :
 <img width="85" alt="javaRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/b9bea072-9ad3-4042-8038-6827e814e0d1">
 
 #### Bases de Datos
-<img width="57" alt="mongoRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/e35b7781-bf80-4393-a304-a7169bd36eb6">
 ![mysql](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/6f11ae37-c3cd-499e-a04d-d5ba90d6a547)
+<img width="57" alt="mongoRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/e35b7781-bf80-4393-a304-a7169bd36eb6">
 
 ##### Testing
 <img width="142" alt="postmanRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/0be3433b-b26f-4e60-bc70-b1073b6084df">
