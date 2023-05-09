@@ -12,11 +12,42 @@ Además tengo conocimientos Contables, de RR.HH., Liquidación de sueldos y Segu
 
 Soy una persona trabajadora, proactiva, organizada y responsable.
 
+Tengo conocimientos sobre : 
 
+##### Lenguajes de Programación
 
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65"/> </a>
+</p>
+  
 ![image](https://user-images.githubusercontent.com/77582867/141662514-db0d47ee-6135-44e3-ac75-c5d738fcc037.png)
 ![image](https://user-images.githubusercontent.com/77582867/141662517-6e01753f-6443-49d4-8d9e-309ccb14c4e8.png)
 ![image](https://user-images.githubusercontent.com/77582867/141662702-21695e9c-05e0-4026-890c-7744fa48fbbb.png)
+
+____
+  
+##### Bases de Datos
+  
+  
+  
+____
+  
+##### Testing
+  
+  
+  
+____
+  
+##### Gestión y Documentación
+  
+  
+  
+____
+  
+##### Bases de Datos
+  
+
+
+
 
 
 ![image](https://user-images.githubusercontent.com/77582867/141662734-dba5d0a1-a0a6-449f-ac65-1a94bd59ae8f.png)
