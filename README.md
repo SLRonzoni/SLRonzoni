@@ -13,8 +13,8 @@ Además tengo conocimientos Contables, de RR.HH., Liquidación de sueldos y Segu
 Soy una persona trabajadora, proactiva, organizada y responsable.
 
 
-Tengo conocimientos sobre : 
 
+Tengo conocimientos sobre : 
 
 
 #### Lenguajes de Programación
@@ -25,23 +25,19 @@ Tengo conocimientos sobre :
 ![REACT](https://user-images.githubusercontent.com/77582867/141662734-dba5d0a1-a0a6-449f-ac65-1a94bd59ae8f.png)
 ![BOOTSTRAP](https://user-images.githubusercontent.com/77582867/141662647-26828224-5fdc-4a93-890e-f0d9541985c4.png)
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="65" height="65"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="65" height="65"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/>
-
 
 
 ##### Bases de Datos
   
 ![MYSQL](https://user-images.githubusercontent.com/77582867/141663148-ea296d4f-62c9-4b62-91ca-6348f57898be.png) 
   
-<font color="grey"> ---</font>  
+ 
   
 ##### Testing
   
   
   
-<font color="grey"> ---</font>  
+ 
   
 ##### Gestión y Documentación
   
