@@ -31,23 +31,21 @@ Tengo conocimientos sobre :
 <img width="85" alt="javaRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/b9bea072-9ad3-4042-8038-6827e814e0d1">
 
 
-##### Bases de Datos
-<img width="128" alt="mongoRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/dbd35d87-ff60-47ad-b93d-b2c466a96b75">
+#### Bases de Datos
+<img width="57" alt="mongoRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/e35b7781-bf80-4393-a304-a7169bd36eb6">
 ![png-clipart-mysql-logo-database-web-development-blue-text-thumbnail](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/35fed540-5bf7-45cc-86fe-504257940a10)
 
   
 ##### Testing
-<img width="300" alt="postmanRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/23cb8a9b-029e-4a23-b385-778736ed7de1">
-![MOCHA](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/4e85e6c2-a5d0-4eb5-b3d0-59a78155ac6f)
+<img width="142" alt="postmanRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/0be3433b-b26f-4e60-bc70-b1073b6084df">
+<img width="126" alt="MOCHARedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/f41fdc8a-dcd9-4df3-ba21-d2cff6ff255f">
+
   
 ##### Gestión y Documentación
 
 <img width="85" alt="scrumRedimension" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/771df7cc-309a-4e9a-948c-110a966aa81d">
-
-![Jira|20](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/b6df87a4-3d64-4c66-87dd-f96023e7151b)
+<img width="85" alt="JiraRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/efe4be4c-d9af-4a3e-a01b-d22ec195a5fd">
 ![GIT|20](https://user-images.githubusercontent.com/77582867/141662651-0537e50e-fa97-4b9c-8f17-c856e2cdd60c.png)
-![<img width="360" alt="MiroRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/4837ce00-61c2-463f-bb78-779b8a93ad32">
+<img width="85" alt="MiroRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/8d72db7c-7611-4c0c-86bc-258b06d908cd">
 ![OFFICE](https://user-images.githubusercontent.com/77582867/141663152-a7efd745-af62-4a89-8361-4495b1c0ed81.png)
-
-<img width="721" alt="SwaggerRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/20ae3d03-4ff6-4f0b-b31e-fd1e53a07dff">
-
+<img width="112" alt="SwaggerRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/57b2dd62-5fd2-48ed-b212-77bb39f4706b">
