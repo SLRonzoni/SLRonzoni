@@ -22,10 +22,12 @@ Tengo conocimientos sobre :
 ![HTML](https://user-images.githubusercontent.com/77582867/141662514-db0d47ee-6135-44e3-ac75-c5d738fcc037.png)
 ![CSS](https://user-images.githubusercontent.com/77582867/141662517-6e01753f-6443-49d4-8d9e-309ccb14c4e8.png)
 ![JS](https://user-images.githubusercontent.com/77582867/141662702-21695e9c-05e0-4026-890c-7744fa48fbbb.png)
-![nodejs](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/e6d40942-fcb3-4b3a-be25-6e9b24075dd6)
+![nodejs](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/961127f1-64e5-471c-91d1-8d37401b76bb)
+
 ![REACT](https://user-images.githubusercontent.com/77582867/141662734-dba5d0a1-a0a6-449f-ac65-1a94bd59ae8f.png)
 ![BOOTSTRAP](https://user-images.githubusercontent.com/77582867/141662647-26828224-5fdc-4a93-890e-f0d9541985c4.png)
 ![JAVA](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/8aff725a-cbde-4a37-9805-77f43610d20e)
+
 
 ##### Bases de Datos
   
