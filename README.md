@@ -10,6 +10,9 @@ Soy una persona trabajadora, proactiva, organizada y responsable.
 ![image](https://user-images.githubusercontent.com/77582867/141662517-6e01753f-6443-49d4-8d9e-309ccb14c4e8.png)
 ![image](https://user-images.githubusercontent.com/77582867/141662702-21695e9c-05e0-4026-890c-7744fa48fbbb.png)
 ![image](https://user-images.githubusercontent.com/77582867/141662670-07b7d139-49eb-4086-a109-33777141a2fb.png)
+![image](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/1c6b54c7-7eaf-4fe7-9773-703a138409ba.png)
+![image](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/0de00194-44d1-4cb3-9cec-a49a063bbd7f)
+
 ![image](https://user-images.githubusercontent.com/77582867/141662734-dba5d0a1-a0a6-449f-ac65-1a94bd59ae8f.png)
 ![image](https://user-images.githubusercontent.com/77582867/141662647-26828224-5fdc-4a93-890e-f0d9541985c4.png)
 ![image](https://user-images.githubusercontent.com/77582867/141662651-0537e50e-fa97-4b9c-8f17-c856e2cdd60c.png)
