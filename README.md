@@ -24,12 +24,11 @@ Tengo conocimientos sobre :
 ![JS](https://user-images.githubusercontent.com/77582867/141662702-21695e9c-05e0-4026-890c-7744fa48fbbb.png)
 <img width="179" alt="nodeRedimensionado" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/1b20d199-f64c-47de-8d23-476b0ca66058">
 <img width="132" alt="expressRedimensionado" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/df9e93f4-a249-4e63-923a-2b02950cad83">
+<img width="216" alt="sequelizeRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/7f013132-bceb-4323-871c-68b142cbbb15">
 
-![sequelize](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/da3972d9-f2e2-4223-9dad-06af76f676b8)
-![sendgrid](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/406c273e-0e7e-4aa0-a3f4-022952e1ea04)
 ![REACT](https://user-images.githubusercontent.com/77582867/141662734-dba5d0a1-a0a6-449f-ac65-1a94bd59ae8f.png)
 ![BOOTSTRAP](https://user-images.githubusercontent.com/77582867/141662647-26828224-5fdc-4a93-890e-f0d9541985c4.png)
-![JAVA | 20](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/8aff725a-cbde-4a37-9805-77f43610d20e)
+<img width="85" alt="javaRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/b9bea072-9ad3-4042-8038-6827e814e0d1">
 
 
 ##### Bases de Datos
@@ -40,15 +39,15 @@ Tengo conocimientos sobre :
 ##### Testing
 <img width="300" alt="postmanRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/23cb8a9b-029e-4a23-b385-778736ed7de1">
 ![MOCHA](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/4e85e6c2-a5d0-4eb5-b3d0-59a78155ac6f)
-
-  
   
 ##### Gestión y Documentación
 
-![SCRUM|20](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/58ff6298-f4b5-497a-a1d9-ea98b9183ae3)
+<img width="85" alt="scrumRedimension" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/771df7cc-309a-4e9a-948c-110a966aa81d">
+
 ![Jira|20](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/b6df87a4-3d64-4c66-87dd-f96023e7151b)
 ![GIT|20](https://user-images.githubusercontent.com/77582867/141662651-0537e50e-fa97-4b9c-8f17-c856e2cdd60c.png)
+![<img width="360" alt="MiroRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/4837ce00-61c2-463f-bb78-779b8a93ad32">
 ![OFFICE](https://user-images.githubusercontent.com/77582867/141663152-a7efd745-af62-4a89-8361-4495b1c0ed81.png)
-![Miro|20](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/791cd535-2d9f-4d67-a7f0-b78689ff8392)
+
 <img width="721" alt="SwaggerRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/20ae3d03-4ff6-4f0b-b31e-fd1e53a07dff">
 
