@@ -23,7 +23,8 @@ Tengo conocimientos sobre :
 ![CSS](https://user-images.githubusercontent.com/77582867/141662517-6e01753f-6443-49d4-8d9e-309ccb14c4e8.png)
 ![JS](https://user-images.githubusercontent.com/77582867/141662702-21695e9c-05e0-4026-890c-7744fa48fbbb.png)
 ![NODE | 20](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/961127f1-64e5-471c-91d1-8d37401b76bb)
-![express](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/508800ea-0edb-442f-a2ef-6afac00e0651)
+<img width="263" alt="expressRedimensionado" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/3a002d06-d47d-4afa-86ca-1a26f051415b">
+
 ![sequelize](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/da3972d9-f2e2-4223-9dad-06af76f676b8)
 ![sendgrid](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/406c273e-0e7e-4aa0-a3f4-022952e1ea04)
 ![REACT](https://user-images.githubusercontent.com/77582867/141662734-dba5d0a1-a0a6-449f-ac65-1a94bd59ae8f.png)
@@ -32,13 +33,12 @@ Tengo conocimientos sobre :
 
 
 ##### Bases de Datos
-  
-![MYSQL](https://user-images.githubusercontent.com/77582867/141663148-ea296d4f-62c9-4b62-91ca-6348f57898be.png) 
-![mongo | 20](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/79b2532e-7222-4623-94f4-e192c24bf5e7)
- 
+<img width="128" alt="mongoRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/dbd35d87-ff60-47ad-b93d-b2c466a96b75">
+![png-clipart-mysql-logo-database-web-development-blue-text-thumbnail](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/35fed540-5bf7-45cc-86fe-504257940a10)
+
   
 ##### Testing
-![POSTMAN](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/d6c1da36-e785-4ecb-a49b-5b4cbdeabd51)
+<img width="300" alt="postmanRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/23cb8a9b-029e-4a23-b385-778736ed7de1">
 ![MOCHA](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/4e85e6c2-a5d0-4eb5-b3d0-59a78155ac6f)
 
   
@@ -50,5 +50,5 @@ Tengo conocimientos sobre :
 ![GIT|20](https://user-images.githubusercontent.com/77582867/141662651-0537e50e-fa97-4b9c-8f17-c856e2cdd60c.png)
 ![OFFICE](https://user-images.githubusercontent.com/77582867/141663152-a7efd745-af62-4a89-8361-4495b1c0ed81.png)
 ![Miro|20](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/791cd535-2d9f-4d67-a7f0-b78689ff8392)
-![Swagger-Logo](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/a3453329-7b06-48d6-b232-fb8078601f09)
+<img width="721" alt="SwaggerRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/20ae3d03-4ff6-4f0b-b31e-fd1e53a07dff">
 
