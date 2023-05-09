@@ -22,8 +22,8 @@ Tengo conocimientos sobre :
 ![HTML](https://user-images.githubusercontent.com/77582867/141662514-db0d47ee-6135-44e3-ac75-c5d738fcc037.png)
 ![CSS](https://user-images.githubusercontent.com/77582867/141662517-6e01753f-6443-49d4-8d9e-309ccb14c4e8.png)
 ![JS](https://user-images.githubusercontent.com/77582867/141662702-21695e9c-05e0-4026-890c-7744fa48fbbb.png)
-![NODE | 20](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/961127f1-64e5-471c-91d1-8d37401b76bb)
-<img width="263" alt="expressRedimensionado" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/3a002d06-d47d-4afa-86ca-1a26f051415b">
+<img width="179" alt="nodeRedimensionado" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/1b20d199-f64c-47de-8d23-476b0ca66058">
+<img width="132" alt="expressRedimensionado" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/df9e93f4-a249-4e63-923a-2b02950cad83">
 
 ![sequelize](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/da3972d9-f2e2-4223-9dad-06af76f676b8)
 ![sendgrid](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/406c273e-0e7e-4aa0-a3f4-022952e1ea04)
