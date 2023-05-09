@@ -15,8 +15,7 @@ Soy una persona trabajadora, proactiva, organizada y responsable.
 ![image](https://user-images.githubusercontent.com/77582867/141662651-0537e50e-fa97-4b9c-8f17-c856e2cdd60c.png)
 ![image](https://user-images.githubusercontent.com/77582867/141663148-ea296d4f-62c9-4b62-91ca-6348f57898be.png)
 ![image](https://user-images.githubusercontent.com/77582867/141663152-a7efd745-af62-4a89-8361-4495b1c0ed81.png)
-![download](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/2a40570f-69fb-4d38-9399-bc3340f9acf7)
-![download](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/10eb03d0-1e6e-4f13-a842-ac69ebfd0c80)
-![download](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/1ce98c61-5a67-4ade-9fa8-31c5b5801224)
-![scrum](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/a6ba5305-f6b0-4a06-b42b-fa4d3f1b1d7a)
-![bug](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/8f72c4cf-b16b-42df-b6a9-719884f5d339)
+![image](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/f2af5d23-8a83-40cd-8fdf-517c10dd302b)
+![image](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/ae82136f-16fc-4986-ac97-068450ff7077)
+![image](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/6c068c84-e9b9-492d-b7dc-51427f973acf)
+
