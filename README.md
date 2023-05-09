@@ -1,4 +1,4 @@
-### Encabezado 3 👋🏻 **Hola, soy Silvina**
+### 👋🏻 **Hola, soy Silvina**
 
 Me recibí de Analista Programadora hace tiempo. 
 A partir de 2020 cursé varias actualizaciones de lenguajes de desarrollo y metodologías ágiles, porque siempre me gustó programar y me interesa formar parte de un equipo en la Industria IT, ya sea en el área de **Desarrollo** o en el área **Testing**.
@@ -10,6 +10,7 @@ Soy **Tester QA** y actualmente estoy realizando trabajos freelance para una pla
 Además tengo conocimientos Contables, de RR.HH., Liquidación de sueldos y Seguros.
 
 Soy una persona trabajadora, proactiva, organizada y responsable.
+
 
 
 ![image](https://user-images.githubusercontent.com/77582867/141662514-db0d47ee-6135-44e3-ac75-c5d738fcc037.png)
