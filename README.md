@@ -1,4 +1,3 @@
-![mysql](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/6f11ae37-c3cd-499e-a04d-d5ba90d6a547)
 ### 👋🏻 **Hola, soy Silvina**
 
 Me recibí de Analista Programadora hace tiempo. 
@@ -27,13 +26,14 @@ Tengo conocimientos sobre :
 <img width="85" alt="nodeRedimensionado" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/e4aa725f-eca9-47b2-a1e4-8ca0e76d16ac">
 <img width="132" alt="expressRedimensionado" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/df9e93f4-a249-4e63-923a-2b02950cad83">
 <img width="85" alt="sequelizeRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/e4f6f29a-44f8-4dbb-91ab-dd230cf27352">
+![sendgridResimendionado](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/4dcca00d-d97d-494b-8747-a9686332005f)
 
 ![BOOTSTRAP](https://user-images.githubusercontent.com/77582867/141662647-26828224-5fdc-4a93-890e-f0d9541985c4.png)
 <img width="85" alt="javaRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/b9bea072-9ad3-4042-8038-6827e814e0d1">
 
 #### Bases de Datos
 <img width="57" alt="mongoRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/e35b7781-bf80-4393-a304-a7169bd36eb6">
-![mysql_original_wordmark_logo_icon_146417](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/827a5174-fb93-4934-a73a-fda744310559)
+![mysql](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/6f11ae37-c3cd-499e-a04d-d5ba90d6a547)
 
 ##### Testing
 <img width="142" alt="postmanRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/0be3433b-b26f-4e60-bc70-b1073b6084df">
