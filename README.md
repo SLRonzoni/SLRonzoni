@@ -22,22 +22,22 @@ Tengo conocimientos sobre :
 ![HTML](https://user-images.githubusercontent.com/77582867/141662514-db0d47ee-6135-44e3-ac75-c5d738fcc037.png)
 ![CSS](https://user-images.githubusercontent.com/77582867/141662517-6e01753f-6443-49d4-8d9e-309ccb14c4e8.png)
 ![JS](https://user-images.githubusercontent.com/77582867/141662702-21695e9c-05e0-4026-890c-7744fa48fbbb.png)
-![NODE|20](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/961127f1-64e5-471c-91d1-8d37401b76bb)
+![NODE | 20](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/961127f1-64e5-471c-91d1-8d37401b76bb)
 
 ![REACT](https://user-images.githubusercontent.com/77582867/141662734-dba5d0a1-a0a6-449f-ac65-1a94bd59ae8f.png)
 ![BOOTSTRAP](https://user-images.githubusercontent.com/77582867/141662647-26828224-5fdc-4a93-890e-f0d9541985c4.png)
-![JAVA|20](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/8aff725a-cbde-4a37-9805-77f43610d20e)
+![JAVA | 20](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/8aff725a-cbde-4a37-9805-77f43610d20e)
 
 
 ##### Bases de Datos
   
 ![MYSQL](https://user-images.githubusercontent.com/77582867/141663148-ea296d4f-62c9-4b62-91ca-6348f57898be.png) 
-![mongo|20](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/79b2532e-7222-4623-94f4-e192c24bf5e7)
+![mongo | 20](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/79b2532e-7222-4623-94f4-e192c24bf5e7)
  
   
 ##### Testing
 ![postman|20](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/7c88dbe1-8ef4-4d3d-8319-4cbdd0c6c164)
-![mocha|20](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/594f5e0d-7262-49ba-8e8f-4350432b82bb)
+![mocha | 20](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/594f5e0d-7262-49ba-8e8f-4350432b82bb)
   
   
 ##### Gestión y Documentación
