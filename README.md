@@ -25,7 +25,7 @@ Tengo conocimientos sobre :
 ![REACT](https://user-images.githubusercontent.com/77582867/141662734-dba5d0a1-a0a6-449f-ac65-1a94bd59ae8f.png)
 ![BOOTSTRAP](https://user-images.githubusercontent.com/77582867/141662647-26828224-5fdc-4a93-890e-f0d9541985c4.png)
 
-<font color="grey"> ---</font>  
+<span style="color:grey">----</span>
 
 ##### Bases de Datos
   
