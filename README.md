@@ -33,7 +33,7 @@ Tengo conocimientos sobre :
 
 #### Bases de Datos
 <img width="57" alt="mongoRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/e35b7781-bf80-4393-a304-a7169bd36eb6">
-![png-clipart-mysql-logo-database-web-development-blue-text-thumbnail](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/35fed540-5bf7-45cc-86fe-504257940a10)
+![mysql_original_wordmark_logo_icon_146417](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/bffabf18-b0a0-43a0-8637-b7f67803aa28)
 
   
 ##### Testing
@@ -42,10 +42,9 @@ Tengo conocimientos sobre :
 
   
 ##### Gestión y Documentación
-
+![GIT](https://user-images.githubusercontent.com/77582867/141662651-0537e50e-fa97-4b9c-8f17-c856e2cdd60c.png)
+![OFFICE](https://user-images.githubusercontent.com/77582867/141663152-a7efd745-af62-4a89-8361-4495b1c0ed81.png)
 <img width="85" alt="scrumRedimension" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/771df7cc-309a-4e9a-948c-110a966aa81d">
 <img width="85" alt="JiraRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/efe4be4c-d9af-4a3e-a01b-d22ec195a5fd">
-![GIT|20](https://user-images.githubusercontent.com/77582867/141662651-0537e50e-fa97-4b9c-8f17-c856e2cdd60c.png)
 <img width="85" alt="MiroRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/8d72db7c-7611-4c0c-86bc-258b06d908cd">
-![OFFICE](https://user-images.githubusercontent.com/77582867/141663152-a7efd745-af62-4a89-8361-4495b1c0ed81.png)
 <img width="112" alt="SwaggerRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/57b2dd62-5fd2-48ed-b212-77bb39f4706b">
