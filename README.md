@@ -32,7 +32,7 @@ Tengo conocimientos sobre :
 <img width="85" alt="javaRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/b9bea072-9ad3-4042-8038-6827e814e0d1">
 
 #### Bases de Datos
-![mysql](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/6f11ae37-c3cd-499e-a04d-d5ba90d6a547)
+<img width="85" alt="mysqlRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/d460fe0a-995e-4bdf-9747-c52e3ef75902">
 <img width="57" alt="mongoRedimensionar" src="https://github.com/SLRonzoni/SLRonzoni/assets/77582867/e35b7781-bf80-4393-a304-a7169bd36eb6">
 
 ##### Testing
