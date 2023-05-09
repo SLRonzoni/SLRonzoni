@@ -15,3 +15,4 @@ Soy una persona trabajadora, proactiva, organizada y responsable.
 ![image](https://user-images.githubusercontent.com/77582867/141662651-0537e50e-fa97-4b9c-8f17-c856e2cdd60c.png)
 ![image](https://user-images.githubusercontent.com/77582867/141663148-ea296d4f-62c9-4b62-91ca-6348f57898be.png)
 ![image](https://user-images.githubusercontent.com/77582867/141663152-a7efd745-af62-4a89-8361-4495b1c0ed81.png)
+![postman-logo-512](https://github.com/SLRonzoni/SLRonzoni/assets/77582867/b873599f-3509-4b55-aa81-dc9dd22d3ed1)
