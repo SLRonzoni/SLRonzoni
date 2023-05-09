@@ -1,4 +1,4 @@
-###Encabezado 3 👋🏻 **Hola, soy Silvina**
+### Encabezado 3 👋🏻 **Hola, soy Silvina**
 
 Me recibí de Analista Programadora hace tiempo. 
 A partir de 2020 cursé varias actualizaciones de lenguajes de desarrollo y metodologías ágiles, porque siempre me gustó programar y me interesa formar parte de un equipo en la Industria IT, ya sea en el área de **Desarrollo** o en el área **Testing**.
