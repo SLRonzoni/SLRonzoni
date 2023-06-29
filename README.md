@@ -6,7 +6,7 @@ A partir de 2020 cursé varias actualizaciones de lenguajes de desarrollo y meto
 
 Realicé la aceleración de **Node JS en Alkemy** y trabajé en varios proyectos personales con Node JS y React JS.
 
-Soy **Tester QA** y actualmente estoy realizando trabajos freelance para una plataforma de Testing y haciendo un curso de Cobol orientado a Mainframe.
+Soy **Tester QA** y actualmente estoy realizando casos de prueba para una plataforma de Testing y haciendo un curso de Cobol orientado a Mainframe.
 
 Además tengo conocimientos Contables, de RR.HH., Liquidación de sueldos y Seguros.
 
