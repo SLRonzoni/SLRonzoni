@@ -1,14 +1,11 @@
 ### 👋🏻 **Hola, soy Silvina**
 
-Me recibí de Analista Programadora hace tiempo. 
+Me recibí de Analista Programadora hace tiempo. A partir de 2020 cursé varias actualizaciones de lenguajes de desarrollo y metodologías ágiles,  porque siempre me gustó programar y me interesa formar parte de un equipo en la Industria IT, ya sea en el área de Desarrollo o en el área Testing.
 
-A partir de 2020 cursé varias actualizaciones de lenguajes de desarrollo y metodologías ágiles, porque siempre me gustó programar y me interesa formar parte de un equipo en la Industria IT, ya sea en el área de **Desarrollo** o en el área **Testing**.
+Realicé la aceleración de Node en Alkemy y trabajé en proyectos personales con Node y React.
+Soy Tester QA Manual Funcional, con conocimientos de SQL y Postman , actualmente estoy realizando casos de prueba para una plataforma de Testing y haciendo un curso de Inglés.
 
-Realicé la aceleración de **Node JS en Alkemy** y trabajé en varios proyectos personales con Node JS y React JS.
-
-Soy **Tester QA** y actualmente estoy realizando casos de prueba para una plataforma de Testing y haciendo un curso de Cobol orientado a Mainframe.
-
-Además tengo conocimientos Contables, de RR.HH., Liquidación de sueldos y Seguros.
+Además he realizado un curso de Gestión de Proyectos y de tengo conocimientos Contables, de RR.HH. , Liquidación de sueldos y Seguros.
 
 Soy una persona trabajadora, proactiva, organizada y responsable.
 
